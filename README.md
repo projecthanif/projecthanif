@@ -17,7 +17,7 @@ I'm a software developer passionate about building tools that make developers' l
 
 - 🔭 Currently building **[BragBox](https://www.bragbox.one)** — a SaaS product
 - 🛠️ Creator of **[NativeMailer](https://github.com/projecthanif/nativemailer)** (13 ⭐) and **[RouteScope](https://github.com/projecthanif/routescope)** (7 ⭐)
-  - 🌍 Based in **Nigeria**
+  
   -  💬 Ask me about **Laravel, NativePHP, Filament, TypeScript, REST APIs**
      
       - ---
