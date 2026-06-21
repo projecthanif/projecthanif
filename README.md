@@ -2,8 +2,8 @@
 
 **Laravel & TypeScript Developer · Dev Tools · APIs · SaaS**
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.projecthanif.me)
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](http://projecthanif.1hanif.click/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://projecthanif.1hanif.click/)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1e-_zp0yRnf0Vs-46L9qXv8qVz4H-Y6fKgcqjXo7HiwA/edit?tab=t.0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamustapha213@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/projecthanif)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349061887329)
@@ -13,12 +13,12 @@
 
 ## 🚀 About Me
 
-I'm a software developer from Nigeria passionate about building tools that make developers' lives easier. I specialize in **Laravel** and **TypeScript**, with experience shipping SaaS products, REST APIs, and native desktop applications.
+I'm a software developer passionate about building tools that make developers' lives easier. I specialize in **Laravel** and **TypeScript**, with experience shipping SaaS products, REST APIs, and native desktop applications.
 
-- 🔭 Currently building **[BragBox](https://github.com/projecthanif/bragbox)** — a SaaS product
-- - 🛠️ Creator of **[NativeMailer](https://github.com/projecthanif/nativemailer)** (13 ⭐) and **[RouteScope](https://github.com/projecthanif/routescope)** (7 ⭐)
-  - - 🌍 Based in **Nigeria**
-    - - 💬 Ask me about **Laravel, NativePHP, Filament, TypeScript, REST APIs**
+- 🔭 Currently building **[BragBox](https://www.bragbox.one)** — a SaaS product
+- 🛠️ Creator of **[NativeMailer](https://github.com/projecthanif/nativemailer)** (13 ⭐) and **[RouteScope](https://github.com/projecthanif/routescope)** (7 ⭐)
+  - 🌍 Based in **Nigeria**
+  -  💬 Ask me about **Laravel, NativePHP, Filament, TypeScript, REST APIs**
      
       - ---
 
@@ -52,15 +52,6 @@ I'm a software developer from Nigeria passionate about building tools that make 
       |---------|-------------|-------|
       | [NativeMailer](https://github.com/projecthanif/nativemailer) | Cross-platform desktop app for catching & viewing emails during development. Built with Laravel & NativePHP. | ⭐ 13 |
       | [RouteScope](https://github.com/projecthanif/routescope) | Powerful route inspection tool for Laravel developers. Available on Packagist. | ⭐ 7 |
-      | [MEP+T Toolkit](https://github.com/projecthanif/mep-toolkit) | Professional-grade engineering calculation workbook for building services projects. | 🆕 |
-
-      ---
-
-      ## 📊 GitHub Stats
-
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projecthanif&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projecthanif&layout=compact&theme=dark&hide_border=true)
 
       ---
 
