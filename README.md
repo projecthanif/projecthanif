@@ -1,31 +1,13 @@
-<div align="center">
+# Hi, I'm Mustapha 👋
 
-<h1>Hi, I'm Mustapha 👋</h1>h1>
+**Laravel & TypeScript Developer · Dev Tools · APIs · SaaS**
 
-<p><strong>Laravel & TypeScript Developer · Dev Tools · APIs · SaaS</strong>strong></p>p>
-
-<p>
-  <a href="https://www.projecthanif.me">
-        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>a>
-    <a href="http://projecthanif.1hanif.click/">
-          <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white" />
-    </a>a>
-    <a href="mailto:iamustapha213@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>a>
-    <a href="https://t.me/projecthanif">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>a>
-    <a href="https://wa.me/+2349061887329">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>a>
-    <a href="https://linkedin.com/in/projecthanif">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>a>
-</p>p>
-
-</div>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.projecthanif.me)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)](http://projecthanif.1hanif.click/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamustapha213@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/projecthanif)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349061887329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/projecthanif)
 
 ---
 
@@ -67,26 +49,19 @@ I'm a software developer from Nigeria passionate about building tools that make 
       ## 📌 Featured Projects
 
       | Project | Description | Stars |
-      |--------|-------------|-------|
-      | [🖥️ NativeMailer](https://github.com/projecthanif/nativemailer) | Cross-platform desktop app for catching & viewing emails during development. Built with Laravel & NativePHP. | ⭐ 13 |
-      | [🔍 RouteScope](https://github.com/projecthanif/routescope) | Powerful route inspection tool for Laravel developers. Available on Packagist. | ⭐ 7 |
-      | [🧰 MEP+T Toolkit](https://github.com/projecthanif/mep-toolkit) | Professional-grade engineering calculation workbook for building services projects. | 🆕 |
+      |---------|-------------|-------|
+      | [NativeMailer](https://github.com/projecthanif/nativemailer) | Cross-platform desktop app for catching & viewing emails during development. Built with Laravel & NativePHP. | ⭐ 13 |
+      | [RouteScope](https://github.com/projecthanif/routescope) | Powerful route inspection tool for Laravel developers. Available on Packagist. | ⭐ 7 |
+      | [MEP+T Toolkit](https://github.com/projecthanif/mep-toolkit) | Professional-grade engineering calculation workbook for building services projects. | 🆕 |
 
       ---
 
       ## 📊 GitHub Stats
 
-      <div align="center">
-
       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projecthanif&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projecthanif&layout=compact&theme=dark&hide_border=true)
 
-      </div>
-
       ---
 
-      <div align="center">
-        <em>Open to collaborations, freelance projects, and exciting opportunities!</em>em>
-      </div>div></em>
-  </strong></h1>
+      *Open to collaborations, freelance projects, and exciting opportunities!*
