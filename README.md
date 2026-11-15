@@ -55,4 +55,10 @@ I'm a software developer passionate about building tools that make developers' l
 
       ---
 
+      ## 🐟 My Git Koi
+
+      <img src="koi/koi.gif" width="256" alt="A pixel-art koi generated from projecthanif's public GitHub activity" />
+
+      ---
+
       *Open to collaborations, freelance projects, and exciting opportunities!*
